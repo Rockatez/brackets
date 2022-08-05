@@ -6,8 +6,5 @@ module.exports = function check(str, bracketsConfig) {
               i = -1
               }
   }
-  if (str.length % 2 !== 0 ) {
-    return false;
-  }
     return str = !str
   }
